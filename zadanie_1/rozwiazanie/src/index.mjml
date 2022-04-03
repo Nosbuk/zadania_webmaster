@@ -1,0 +1,130 @@
+<mjml>
+    <mj-head>
+        <mj-title>
+            Czy Twoim kierowcom należy się ryczałt za nocowanie w kabinie?
+            Sprawdź, czy musisz płacić!
+        </mj-title>
+        <mj-attributes>
+            <mj-all
+                font-family="Tahoma, Arial"
+                color="#fff"
+                align="center"
+                padding="0px"
+                margin="0px"
+            />
+            <mj-class
+                name="footer"
+                color="#000000"
+                font-size="10px"
+                padding-top="15px"
+            />
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#8fa9c6">
+        <mj-wrapper>
+            <mj-section>
+                <mj-column>
+                    <mj-text
+                        align="right"
+                        color="#000000"
+                        font-size="10px"
+                        padding="5px 0px"
+                    >
+                        Jeżeli poniższy list nie wyświetla się poprawnie 
+                        <a href="https://www.wip.pl/"                         target="_blank" style="color:#000000;">
+                        KLIKNIJ TU >>
+                        <a/>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section
+                css-class="header"
+                padding="15px"
+                background-color="#010e51"
+            >
+                <mj-column>
+                    <mj-text
+                        font-weight="bold"
+                        line-height="40px"
+                        font-size="30px"
+                    >
+                        Znamy najnowszy wyrok Sądu Najwyższego (5&nbsp;listopada&nbsp;2015)
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                <mj-image
+                    src="https://matwis.pl/JAKUB/tir.png"
+                    alt="Zdjęcie tira na parkingu"
+                />
+                </mj-column>
+            </mj-section>
+            <mj-section
+                padding="10px"
+                background-color="#ecac2e"
+            >
+                <mj-column>
+                    <mj-text
+                        padding="0 40px"
+                        color="#010e51"
+                        font-weight="bold"
+                        line-height="30px"
+                        font-size="22px"
+                    >
+                        Czy Twoim kierowcom należy się ryczałt za&nbsp;nocowanie w&nbsp;kabinie?
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section
+                padding="20px 10px"
+                padding-top="20px"
+                background-color="#ecac2e"
+            >
+                <mj-column>
+                    <mj-image
+                        src="https://matwis.pl/JAKUB/button.png"
+                        alt="Kliknij i sprawdź, czy musisz płacić"
+                        width="380px"
+                        href="https://www.wip.pl/"
+                        target="_blank"
+                    />
+                </mj-column>
+            </mj-section>
+            <mj-section
+                padding-bottom="60px"
+            >
+                <mj-column>
+                    <mj-text
+                        mj-class="footer"
+                    >
+                        Wiadomość przesłana przez: Wiedza i Praktyka sp. z o.o., ul. Łotewska 9A,<br />03-918 Warszawa, tel.: (22) 518 29 29, e-mail: 
+                        <a
+                            style="color:#000000;"
+                            href="mailto:cok@wip.pl"
+                        >
+                            cok@wip.pl
+                        </a>
+                    </mj-text>
+                    <mj-text
+                        mj-class="footer"
+                    >
+                        Numer NIP: 526-19-92-256, Numer KRS: 0000098264 - Sąd Rejonowy dla m. st. Warszawy<br />w Warszawie, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego, Wysokość kapitału zakładowego: 200 000 zł.
+                    </mj-text>
+                    <mj-text
+                        mj-class="footer"
+                    >
+                        Jeżeli nie chcesz więcej otrzymywać wiadomości, 
+                        <a
+                            style="color:#000000;"
+                            href="https://www.wip.pl/"
+                            target="_blank"
+                        >
+                            wypisz się.
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

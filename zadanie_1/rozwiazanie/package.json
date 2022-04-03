@@ -1,0 +1,13 @@
+{
+  "name": "zadanie1",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "scripts":{
+    "build": "mjml src/index.mjml --output build/index.html"
+  },
+  "devDependencies": {
+    "mjml": "^4.12.0"
+  }
+}

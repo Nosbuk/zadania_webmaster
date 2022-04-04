@@ -20,7 +20,9 @@
             />
         </mj-attributes>
     </mj-head>
-    <mj-body background-color="#8fa9c6">
+    <mj-body
+        background-color="#8fa9c6"
+    >
         <mj-wrapper>
             <mj-section>
                 <mj-column>
@@ -30,9 +32,12 @@
                         font-size="10px"
                         padding="5px 0px"
                     >
-                        Jeżeli poniższy list nie wyświetla się poprawnie 
-                        <a href="https://www.wip.pl/"                         target="_blank" style="color:#000000;">
-                        KLIKNIJ TU >>
+                        Jeżeli poniższy list nie wyświetla się poprawnie
+                        <a
+                            href="https://www.wip.pl/"
+                            target="_blank" style="color:#000000;"
+                        >
+                         KLIKNIJ TU >>
                         <a/>
                     </mj-text>
                 </mj-column>
@@ -98,12 +103,12 @@
                     <mj-text
                         mj-class="footer"
                     >
-                        Wiadomość przesłana przez: Wiedza i Praktyka sp. z o.o., ul. Łotewska 9A,<br />03-918 Warszawa, tel.: (22) 518 29 29, e-mail: 
+                        Wiadomość przesłana przez: Wiedza i Praktyka sp. z o.o., ul. Łotewska 9A,<br />03-918 Warszawa, tel.: (22) 518 29 29, e-mail:
                         <a
                             style="color:#000000;"
                             href="mailto:cok@wip.pl"
                         >
-                            cok@wip.pl
+                             cok@wip.pl
                         </a>
                     </mj-text>
                     <mj-text
@@ -114,13 +119,13 @@
                     <mj-text
                         mj-class="footer"
                     >
-                        Jeżeli nie chcesz więcej otrzymywać wiadomości, 
+                        Jeżeli nie chcesz więcej otrzymywać wiadomości,
                         <a
                             style="color:#000000;"
                             href="https://www.wip.pl/"
                             target="_blank"
                         >
-                            wypisz się.
+                             wypisz się.
                         </a>
                     </mj-text>
                 </mj-column>
